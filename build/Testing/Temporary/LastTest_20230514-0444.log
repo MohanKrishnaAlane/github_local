@@ -1,0 +1,31 @@
+Start testing: May 14 10:15 India Standard Time
+----------------------------------------------------------
+1/1 Testing: ExampleTests
+1/1 Test: ExampleTests
+Command: "D:/github_local/build/test/ExampleTests.exe"
+Directory: D:/github_local/build/test
+"ExampleTests" start time: May 14 10:15 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from D:\github_local\Example\googletest\googletest\src\gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ExampleTests
+[ RUN      ] ExampleTests.Square
+[       OK ] ExampleTests.Square (0 ms)
+[----------] 1 test from ExampleTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+Begining of ExampleTests
+End of ExampleTests
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ExampleTests" end time: May 14 10:15 India Standard Time
+"ExampleTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 14 10:15 India Standard Time
