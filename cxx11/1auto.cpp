@@ -1,3 +1,10 @@
+
+/*
+The auto keyword in C++ (introduced in C++11) allows the compiler to automatically deduce 
+the type of a variable at compile time. 
+This simplifies code and improves readability while maintaining strong typing.
+*/
+
 #include <iostream>
 #include <vector>
 #include <map>
